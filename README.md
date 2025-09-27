@@ -1,2 +1,2 @@
-# 1-tipos-de-css
+# 1 Tipos de CSS
 Resolução de exercícios de tipos de CSS: inline, embutido e externo.
